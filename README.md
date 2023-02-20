@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Dotun, Product Manager and Analyst
 
 <!--
 **Dotunxp/Dotunxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
